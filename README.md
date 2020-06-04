@@ -47,9 +47,9 @@ Please add your ideas and suggesitons, pull request is super-easy and fast on Gi
 ## Object Model
 
 Community Suggestions
-| Suggestion | Pull Request Discussion |
+| Suggestion | Origin |
 | ---------- | ----------------------- |
-| Base Architecture (fork from): UWP | #4 |
+| Base Architecture (fork from): UWP | [Pull Request #4](https://github.com/LanceMcCarthy/MauiSuggestions/pull/4) |
 
 
 
