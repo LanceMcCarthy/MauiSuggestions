@@ -46,10 +46,12 @@ Please add your ideas and suggesitons, pull request is super-easy and fast on Gi
 
 ## Object Model
 
-Community Suggestions
+Community Suggestions. Visit the origin to see full discussions around the idea.
+
 | Suggestion | Origin |
 | ---------- | ----------------------- |
 | Base Architecture (fork from): UWP | [Pull Request #4](https://github.com/LanceMcCarthy/MauiSuggestions/pull/4) |
+| XAML-defined animations (without attaching behaviors) | [Issue #1](https://github.com/LanceMcCarthy/MauiSuggestions/issues/1) |
 
 
 
