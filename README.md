@@ -30,7 +30,7 @@ Please add your ideas and suggesitons, pull request is super-easy and fast on Gi
 | Stepper           | NumericUpDown              | NumericStepper, NumericUpDown, NumericInput |
 | BoxView           | Border                     | Border                                      |
 | Slider            | Slider                     | Slider                                      |
-| ActivityIndicator | ProgressBar                | ProgressBar                                 |
+| ActivityIndicator | ProgressRing               | ProgressRing                                |
 
 ## Other
 | Xamarin.Forms     | Other XAML                 | Proposal                                    |
