@@ -26,7 +26,7 @@ Please add your ideas and suggesitons, pull request is super-easy and fast on Gi
 | StackLayout       | StackPanel                 | StackPanel                                  |
 | ScrollView        | ScrollViewer               | ScrollViewer                                |
 | Switch            | ToggleSwitch               | ToggleSwitch                                |
-| Stepper           | NumericUpDown              | NumericStepper, NumericUpDown, NumericInput |
+| Stepper           | NumberBox                  | NumberBox, NumericUpDown                    |
 | Frame             | Border                     | Border                                      |
 | Slider            | Slider                     | Slider                                      |
 | ActivityIndicator | ProgressRing               | ProgressRing                                |
@@ -46,12 +46,10 @@ Please add your ideas and suggesitons, pull request is super-easy and fast on Gi
 
 ## Object Model
 
-Community Suggestions. Visit the origin to see full discussions around the idea.
-
+Community Suggestions
 | Suggestion | Origin |
 | ---------- | ----------------------- |
 | Base Architecture (fork from): UWP | [Pull Request #4](https://github.com/LanceMcCarthy/MauiSuggestions/pull/4) |
-| XAML-defined animations (without attaching behaviors) | [Issue #1](https://github.com/LanceMcCarthy/MauiSuggestions/issues/1) |
 
 
 
