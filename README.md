@@ -1,5 +1,12 @@
-# MauiSuggestions
+# Maui XAML and Object Model Suggestions
 This is a repo to hold suggestions for MAUI architecural and naming considerations as it is being developed.
+
+Please add your ideas and suggesitons, pull request is super-easy and fast on GitHub
+
+1. Click the little Pencil button at the top-right of this document
+    * This will automatically fork the repo and you can start editing immediately.
+2. Make your additions and open a Pull Request
+    * The commit button at the bottom of the page will start a pull request for you.
 
 ## Names
 
