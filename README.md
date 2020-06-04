@@ -26,7 +26,7 @@ Please add your ideas and suggesitons, pull request is super-easy and fast on Gi
 | StackLayout       | StackPanel                 | StackPanel                                  |
 | ScrollView        | ScrollViewer               | ScrollViewer                                |
 | Switch            | ToggleSwitch               | ToggleSwitch                                |
-| Stepper           | NumericUpDown              | NumericStepper, NumericUpDown, NumericInput |
+| Stepper           | NumericUpDown              | NumberBox                                   |
 | Frame             | Border                     | Border                                      |
 | Slider            | Slider                     | Slider                                      |
 | ActivityIndicator | ProgressRing               | ProgressRing                                |
