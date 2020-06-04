@@ -31,7 +31,7 @@ Base Architecture (fork from): UWP
 | ScrollView        | ScrollViewer               | ScrollViewer                                |
 | Switch            | ToggleSwitch               | ToggleSwitch                                |
 | Stepper           | NumericUpDown              | NumericStepper, NumericUpDown, NumericInput |
-| BoxView           | Border                     | Border                                      |
+| Frame           | Border                     | Border                                      |
 | Slider            | Slider                     | Slider                                      |
 | ActivityIndicator | ProgressRing               | ProgressRing                                |
 
