@@ -16,7 +16,6 @@ Base Architecture (fork from): UWP
 | Xamarin.Forms     | Other XAML                 | Proposal                                    |
 |-------------------|----------------------------|---------------------------------------------|
 | ContentPage       | Page                       | Page                                        |
-| ContentView       | UserControl                |                                             |
 | BindableProperty  | DependencyProperty         | DependencyProperty                          |
 | BindableObject    | DependencyObject           | DependencyObject                            |
 | VisualElement     | UIElement                  | UIElement                                   |
