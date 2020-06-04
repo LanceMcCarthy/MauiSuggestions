@@ -8,9 +8,6 @@ Please add your ideas and suggesitons, pull request is super-easy and fast on Gi
 2. Make your additions and open a Pull Request
     * The commit button at the bottom of the page will start a pull request for you.
 
-
-Base Architecture (fork from): UWP
-
 ## Names
 
 | Xamarin.Forms     | Other XAML                 | Proposal                                    |
@@ -30,11 +27,12 @@ Base Architecture (fork from): UWP
 | ScrollView        | ScrollViewer               | ScrollViewer                                |
 | Switch            | ToggleSwitch               | ToggleSwitch                                |
 | Stepper           | NumericUpDown              | NumericStepper, NumericUpDown, NumericInput |
-| Frame           | Border                     | Border                                      |
+| Frame             | Border                     | Border                                      |
 | Slider            | Slider                     | Slider                                      |
 | ActivityIndicator | ProgressRing               | ProgressRing                                |
 
-## Other
+## Properties
+
 | Xamarin.Forms     | Other XAML                 | Proposal                                    |
 |-------------------|----------------------------|---------------------------------------------|
 | HorizontalOptions | HorizontalAlignment        | HorizontalAlignment                         |
@@ -45,3 +43,13 @@ Base Architecture (fork from): UWP
 | HeightRequest     | Height                     | Height                                      |
 | WidthRequest      | Width                      | Width                                       |
 | IsVisible         | Visibility                 | Visibility                                  |
+
+## Object Model
+
+Community Suggestions
+| Suggestion | Pull Request Discussion |
+| ---------- | ----------------------- |
+| Base Architecture (fork from): UWP | #4 |
+
+
+
