@@ -8,6 +8,9 @@ Please add your ideas and suggesitons, pull request is super-easy and fast on Gi
 2. Make your additions and open a Pull Request
     * The commit button at the bottom of the page will start a pull request for you.
 
+
+Base Architecture (fork from): UWP
+
 ## Names
 
 | Xamarin.Forms     | Other XAML                 | Proposal                                    |
