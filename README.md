@@ -1,5 +1,5 @@
 # Maui XAML and Object Model Suggestions
-This is a repo to hold suggestions for MAUI architecural and naming considerations as it is being developed.
+This is a repo to hold suggestions for MAUI architecural and naming considerations as it is being developed. The origin and inspiration for this repository is formed from the discussion in https://github.com/dotnet/maui/issues/43.
 
 Please add your ideas and suggesitons, pull request is super-easy and fast on GitHub
 
